@@ -1,6 +1,6 @@
 (require 'quail)
 
-;; Modified by Tsung-Han Yang for emacs 20 
+;; Modified by Tsung-Han Yang for emacs 20
 ;; March 1, 2000
 ;; http://bookmall.hypermart.net/index_c.html
 ;; blacksburg98@yahoo.com
@@ -17,12 +17,12 @@
 ;; # 此檔可在 cxterm 或 chdrv  中  設定成新中文輸入法
 ;; # 如何設 請參考前面的一些 帖子  其中的 PROMPT 依個人
 ;; # 愛好去定吧
-;; # 
-;; # 字可能少了  那就自己加一加吧  
+;; #
+;; # 字可能少了  那就自己加一加吧
 ;; #
 ;; # 要用時 也請將後面的簽名拿掉
 ;; #
-;; # 有問題就寄個mail 到 crh2@juno.cs.ntit.edu.tw 
+;; # 有問題就寄個mail 到 crh2@juno.cs.ntit.edu.tw
 ;; #
 ;; # ========================    底下開始有效  =================
 ;; #  陳仁和 製作
@@ -84,7 +84,7 @@
 ;; KEYPROMPT(.):   ．
 ;; # the following line must not be removed
 
-(quail-define-package 
+(quail-define-package
 "boshiamy ""Chinese-BIG5" "嘸蝦米"
 '((?. . "．")
    (?, . "，")
